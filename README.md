@@ -1,2 +1,2 @@
-# Hello Wword
+# Hello Word
 primeiro repositório versionado
